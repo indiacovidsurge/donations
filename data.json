@@ -2,37 +2,37 @@
     "resources": [
         {
             "charity_name": "KhaanaChahiye Foundation",
-            "regional": "Yes, Mumbai",
+            "regional": "Mumbai",
             "mission": "Food, grocery",
             "link": "https://fundraisers.giveindia.org/fundraisers/khaanachahiye-mumbai-is-battling-hunger-along-with-covid-19-again",
             "accepting_non_inr": "Yes"
         },
         {
             "charity_name": "OSCAR Foundation",
-            "regional": "Yes, Mumbai",
+            "regional": "Mumbai",
             "mission": "Low income families",
             "link": "https://fundraisers.giveindia.org/projects/874?ref=R9f0TjTael",
             "accepting_non_inr": "Yes"
         },
         {
             "charity_name": "Give India Aggregates",
-            "regional": "No, pan India",
+            "regional": "Pan India",
             "mission": "Various",
             "link": "https://indiafightscorona.giveindia.org/support-families/",
             "accepting_non_inr": "Yes"
         },
         {
             "charity_name": "Sachin and Neha's fundraiser for Sewa International USA ($ for $ match upto $50,000)",
-            "regional": "No, pan India",
+            "regional": "Pan India",
             "mission": "Medical supplies to orphanages and old age homes and more",
             "link": "https://www.facebook.com/donate/135520548552087/",
             "accepting_non_inr": "Yes"
         },
         {
             "charity_name": "Akshay Patra",
-            "regional": "No, pan India",
+            "regional": "Pan India",
             "mission": "Cooked meals",
-            "link": "https://www.facebook.com/donate/135520548552087/",
+            "link": "https://www.akshayapatra.org/covid-relief-services",
             "accepting_non_inr": "Yes"
         }
     ]
